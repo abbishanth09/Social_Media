@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author Bichoy Emad
+ *
  *
  */
 module SocialMediaPlatform {
